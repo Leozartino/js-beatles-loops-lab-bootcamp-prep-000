@@ -22,6 +22,6 @@ function iLoveTheBeatles(number){
     vetorFrases.push('I love the Beatles!')
     number += 1
   } while(number < 15)
-  
+
   return vetorFrases;
 }
